@@ -1,4 +1,4 @@
-# 🛡️ React Intrusion Detection & Prevention System (IDPS)
+# 🛡️ Intrusion Detection & Prevention System (IDPS)
 
 A professional-grade, real-time security monitoring dashboard. This application is designed to visualize network traffic, detect potential intrusions, and manage prevention protocols through a high-performance web interface.
 
