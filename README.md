@@ -2,7 +2,7 @@
 
 A professional-grade, real-time security monitoring dashboard. This application is designed to visualize network traffic, detect potential intrusions, and manage prevention protocols through a high-performance web interface.
 
-**🌐 [View Live Demo](https://intrusion-detection-and-prevention-system.vercel.app)** ---
+**🌐 [View Live Demo]( https://intrusion-detection-prevention-fblxmb4xu.vercel.app)** ---
 
 ## 🛠️ Technical Architecture
 
